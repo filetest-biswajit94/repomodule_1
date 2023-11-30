@@ -22,8 +22,6 @@ public class Testcheck_crossbrowser extends Baseclass_crossbrowser {
 
 		System.out.println("Test Case1");
 		
-		System.out.println("case1");
-		
 		System.out.println("CASE-1");
 		
 		//driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
